@@ -28,15 +28,32 @@ It includes:
 - `Hamming_Distance_AllCNA.csv`: The full output of Hamming distance results. You can regenerate it by uncommenting the save file instruction in `hamming_distance.py`.
 - `Median_d_withShortName.csv`: Median disagreement score per CNA for visualization. You can regenerate it by uncommenting the save file instruction in `hamming_distance.py`.
 
-### Per-Metric Disagreement Coefficient (PMDC)
+## Per-Metric Disagreement Coefficient (PMDC)
 
 This module quantifies how often each CVSS base metric (e.g., AV, AC, PR) differs between CNA and NVD.  
 It includes:
 - `PMDC.py`: Computes metric-level disagreement rates.
-- `PMDC_withShortName.csv`: The output file containing per-metric disagreement coefficients per CNA. You can regenerate it by uncommenting the save file instruction in `hamming_distance.py`.
+- `PMDC_withShortName.csv`: The output file containing per-metric disagreement coefficients per CNA. You can regenerate it by uncommenting the save file instruction in `PMDC.py`.
 
 ## Odds Ratio
 
+This module compares the consistency of vector assignments between CNAs and the NVD using odds ratio analysis.  
+It includes:
+- `odds_ratio.py`: Calculates group-level consistency based on identical CVE descriptions.
+- `group_labels_withShortName.csv`: Script-generated group consistency and inconsistency labels. You can regenerate it by uncommenting the save file instruction in `odds_ratio.py`.
+- `odds_ratio_withShortName.csv`: Final odds ratio results per CNA. You can regenerate it by uncommenting the save file instruction in `odds_ratio.py`.
+
 ## Entropy
 
+This module measures internal consistency for each CNA and the NVD using entropy.  
+It includes:
+- `entropy.py`: Computes entropy of vector variations within identical description groups.
+- `entropy_withShortName.csv`: Entropy results for each CNA and the NVD. You can regenerate it by uncommenting the save file instruction in `entropy.py`.
+
 ## Regression Analysis
+
+This module analyzes factors that influence CNA-NVD disagreements using logistic and linear regression models.  
+It includes:
+- `logistic_regression.py`: Predicts whether a CNA and NVD will disagree.
+- `linear_regression.py`: Explains the magnitude of base score differences.
+- `merged_withVendor_info.csv`: This file merges the feature dataset generated from previous runs with manually annotated CNA organizational types. It also includes additional information such as severity level comparisons, severity differences, indicators of which party assigned a higher score, and whether a score is critical. These features may be useful for our future studies.
