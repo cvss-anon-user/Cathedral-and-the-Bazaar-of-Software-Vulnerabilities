@@ -1,22 +1,24 @@
 # Cathedral-and-the-Bazaar-of-Software-Vulnerabilities
 
 This repository provides the datasets used in our paper for analyzing entry-level and group-level inconsistencies between CNAs and the NVD.  
-**Note**: The private CNA dataset (referred to as *Company X*) used in our experiments and analysis is not included in this repository.
+**Note**: The private CNA dataset (referred to as *Company X*) used in our experiments and analysis is not included in this repository. The script below uses only public CNA data obtained from VulnCheck.
 
 # Usage
 Environment Python 3.10.9
 
 # Folder Contents
-## Data
 
-- **Entry-level Dataset**: Contains CVEs with both CNA and NVD CVSS v3.1 vectors used for entry-level analysis.
-- **Group-level Dataset**: Contains all CNA and NVD CVE entries grouped by identical descriptions for group-level analysis.
+## Original Dataset
 
+As the files `"vulCheck_v31.csv"`, `"vulCheck_v31_Cleaned.csv"`, and `"vulCheck_v31_Cleaned_withShortName.csv"` are large in size, we have uploaded each of them as a separate zip archive.  
+Please follow the instructions below to properly extract and use the full dataset and code.
 
+- **Step 1**: Download all three zipped CSV files.  
+- **Step 2**: Unzip the files and place them in the folder named `Original Dataset`.
 
-## Original Dataset: 
-
-Download all csv zip files, creat "Original Dataset" folder, unzip all zip files and move them under the folder
+Please note:
+- The file `"vulCheck_v31_Cleaned.csv"` was generated using our preprocessing script `vulCheck_DataPreprocessing.py`. You can also regenerate it by uncommenting the save file instruction in the script.
+- The file `"vulCheck_v31_Cleaned_withShortName.csv"` was created based on `"vulCheck_v31_Cleaned.csv"` by manually reviewing and annotating short names for each CNA.
 
 ## d Disagreement Metric
 ## Per-Metric Disagreement Coefficient
