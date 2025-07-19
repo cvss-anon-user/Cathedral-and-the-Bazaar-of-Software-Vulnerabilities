@@ -1,0 +1,76 @@
+ShortName,G_I_CNA,G_C_CNA,G_I_NVD,G_C_NVD,Odds_Ratio
+Microsoft,207,84,160,131,2.0176
+QNAP,4,16,2,18,2.25
+CISA-ADP,28,52,6,74,6.641
+Xiaomi,1,1,1,1,1.0
+Rockwell Automation,0,3,2,1,0.0
+Lenovo,0,2,0,2,0.0
+Red Hat,0,1,0,1,0.0
+Samsung Mobile,0,6,0,6,0.0
+Fortinet,3,4,2,5,1.875
+Autodesk,0,3,0,3,0.0
+Adobe,7,73,7,73,1.0
+Ivanti,0,6,0,6,0.0
+ICS-CERT,2,6,3,5,0.5556
+Trend Micro,0,1,0,1,0.0
+Kubernetes,0,1,0,1,0.0
+ESRI,2,1,1,2,4.0
+Cisco,8,130,61,77,0.0777
+ABB,3,1,2,2,3.0
+Hitachi Energy,1,0,1,0,
+HPE,2,28,4,26,0.4643
+INCIBE,1,2,0,3,inf
+Dahua,0,1,0,1,0.0
+Siemens,1,24,0,25,inf
+Snyk,0,1,1,0,0.0
+AMI,0,4,0,4,0.0
+TWCERT/CC,2,4,2,4,1.0
+Schweitzer,1,2,0,3,inf
+GitLAb,0,3,0,3,0.0
+Arista,1,1,0,2,inf
+MITRE,7,28,10,25,0.625
+Patchstack,22,22,15,29,1.9333
+Xerox,0,2,0,2,0.0
+F5,1,1,1,1,1.0
+Zoom,3,8,1,10,3.75
+Huntress Labs,3,1,3,1,1.0
+Huawei,5,3,0,8,inf
+Trellix,0,2,0,2,0.0
+INCD,0,3,2,1,0.0
+KrCERT/CC,0,1,0,1,0.0
+Dell,9,19,6,22,1.7368
+Qualcomm,0,6,0,6,0.0
+SAP,1,2,0,3,inf
+TianoCore.org,1,0,0,1,inf
+GitHub,6,6,0,12,inf
+Hitachi Vantara,0,1,0,1,0.0
+Fluid Attacks,0,2,1,1,0.0
+IBM,5,2,3,4,3.3333
+Intel,18,0,7,11,inf
+TR-CERT,1,6,1,6,1.0
+AMD,1,1,0,2,inf
+Mitsubishi Electric,0,1,0,1,0.0
+Apache,1,0,0,1,inf
+Synology,0,1,0,1,0.0
+Unisoc,1,3,0,4,inf
+OpenHarmony,3,10,2,11,1.65
+Progress,0,2,1,1,0.0
+Zephyr Project,0,1,0,1,0.0
+CERT/CC,1,0,0,1,inf
+CERT@VDE,0,1,0,1,0.0
+NVIDIA,5,5,3,7,2.3333
+OpenText,2,0,2,0,
+SolarWinds,1,4,1,4,1.0
+Honor Device,6,1,2,5,15.0
+Splunk,0,1,1,0,0.0
+Wordfence,0,4,0,4,0.0
+Robert Bosch,0,3,0,3,0.0
+TML,0,1,0,1,0.0
+Nozomi,1,0,0,1,inf
+Rapid7,0,1,0,1,0.0
+M-Files,1,0,1,0,
+Google LLC,0,1,1,0,0.0
+VMware,0,1,0,1,0.0
+Oracle,0,27,0,27,0.0
+PHP,0,1,0,1,0.0
+HCL,0,1,0,1,0.0
