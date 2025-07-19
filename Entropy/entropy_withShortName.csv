@@ -1,0 +1,76 @@
+ShortName,Num_CNA_Groups,Mean_CNA_Entropy,Num_NVD_Groups,Mean_NVD_Entropy
+Honor Device,7,1.4143,7,0.219
+Intel,18,1.0884,18,0.4726
+CERT/CC,1,1.0,1,0.0
+M-Files,1,1.0,1,1.0
+Hitachi Energy,1,1.0,1,1.0
+OpenText,2,1.0,2,1.0
+TianoCore.org,1,1.0,1,0.0
+Apache,1,1.0,1,0.0
+Nozomi,1,0.971,1,0.0
+Microsoft,291,0.9675,291,0.6677
+Huntress Labs,4,0.8962,4,0.7028
+ABB,4,0.8278,4,0.75
+Huawei,8,0.7647,8,0.0
+IBM,7,0.7143,7,0.4286
+ESRI,3,0.6038,3,0.3333
+Patchstack,44,0.5779,44,0.3808
+SAP,3,0.5283,3,0.0
+AMD,2,0.5,2,0.0
+F5,2,0.5,2,0.5
+Arista,2,0.5,2,0.0
+NVIDIA,10,0.5,10,0.3
+Xiaomi,2,0.5,2,0.5
+Fortinet,7,0.4959,7,0.2857
+GitHub,12,0.4932,12,0.0
+CISA-ADP,80,0.3766,80,0.0796
+ICS-CERT,8,0.375,8,0.6652
+TWCERT/CC,6,0.3333,6,0.3333
+Schweitzer,3,0.3333,3,0.0
+INCIBE,3,0.3333,3,0.0
+Dell,28,0.3069,28,0.2349
+Zoom,11,0.2653,11,0.1441
+Unisoc,4,0.25,4,0.0
+OpenHarmony,13,0.2308,13,0.1538
+MITRE,35,0.2167,35,0.2603
+QNAP,20,0.1918,20,0.0959
+SolarWinds,5,0.1623,5,0.1623
+TR-CERT,7,0.1429,7,0.1429
+Siemens,25,0.06,25,0.0
+Cisco,138,0.0582,138,0.5104
+Adobe,80,0.0489,80,0.0748
+HPE,30,0.048,30,0.1161
+VMware,1,0.0,1,0.0
+Trend Micro,1,0.0,1,0.0
+Trellix,2,0.0,2,0.0
+Samsung Mobile,6,0.0,6,0.0
+Autodesk,3,0.0,3,0.0
+Wordfence,4,0.0,4,0.0
+TML,1,0.0,1,0.0
+Synology,1,0.0,1,0.0
+Xerox,2,0.0,2,0.0
+Splunk,1,0.0,1,1.0
+AMI,4,0.0,4,0.0
+Snyk,1,0.0,1,1.0
+Zephyr Project,1,0.0,1,0.0
+CERT@VDE,1,0.0,1,0.0
+INCD,3,0.0,3,0.6394
+Ivanti,6,0.0,6,0.0
+GitLAb,3,0.0,3,0.0
+KrCERT/CC,1,0.0,1,0.0
+Kubernetes,1,0.0,1,0.0
+Lenovo,2,0.0,2,0.0
+Hitachi Vantara,1,0.0,1,0.0
+HCL,1,0.0,1,0.0
+Mitsubishi Electric,1,0.0,1,0.0
+Google LLC,1,0.0,1,0.9183
+Fluid Attacks,2,0.0,2,0.5
+Robert Bosch,3,0.0,3,0.0
+Oracle,27,0.0,27,0.0
+PHP,1,0.0,1,0.0
+Dahua,1,0.0,1,0.0
+Progress,2,0.0,2,0.5
+Qualcomm,6,0.0,6,0.0
+Rapid7,1,0.0,1,0.0
+Red Hat,1,0.0,1,0.0
+Rockwell Automation,3,0.0,3,0.6394
