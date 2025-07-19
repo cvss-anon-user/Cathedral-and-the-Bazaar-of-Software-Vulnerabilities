@@ -1,0 +1,267 @@
+ShortName,Hamming_Distance
+42Gears,1.0
+ABB,1.0
+AMD,1.0
+AMI,2.0
+ASR,5.0
+ASRG,0.0
+ASUSTOR,3.0
+Absolute,2.0
+Adobe,0.0
+AlgoSec,6.5
+Alias Robotics,0.0
+Apache,1.0
+AppCheck,2.0
+Apple,3.0
+Arista,2.0
+Arm Limited,0.0
+Autodesk,0.0
+Avaya,2.0
+Axis,1.0
+B. Braun SE,2.0
+BD,0.0
+Baicells,2.5
+Baidu,3.0
+Baxter Healthcare,1.5
+BeyondTrust,2.5
+Bitdefender,2.0
+Black Duck,0.0
+Black Lantern Security,1.5
+BlackBerry,0.5
+Brocade,0.0
+CA Technologies,0.5
+CERT-In,2.0
+CERT.PL,0.0
+CERT/CC,1.0
+CERT@VDE,0.0
+CISA U.S. CG,0.0
+CISA-ADP,0.0
+Canon Inc.,0.0
+Canonical,1.0
+Carrier,0.0
+Cato Networks,1.0
+Check Point,0.0
+Checkmarx,0.0
+Checkmk,1.0
+Cisco,0.0
+Citrix,1.0
+Cloudflare,2.0
+Concrete CMS,4.0
+Crafter CMS,2.5
+Cybellum,1.0
+CyberDanube,1.0
+DFINITY,0.0
+DIVD,1.0
+Dahua,0.0
+Dassault,2.0
+Dell,1.0
+DirectCyber,1.0
+Docker,2.0
+Document,4.0
+Dragos,2.0
+Drupal.org,1.0
+ELAN,3.0
+ESRI,0.0
+Eaton,3.0
+Eclipse,1.0
+Elastic,1.0
+Ericsson,0.0
+Eset,1.0
+Exodus Intelligence,1.0
+F-Secure,4.0
+F5,0.0
+Fidelis,0.0
+Flexera Software LLC,0.0
+Fluid Attacks,0.0
+Forcepoint,0.0
+Fortinet,1.0
+"Fortra, LLC",0.0
+GE Vernova,1.0
+Gallagher,1.0
+GitHub,1.0
+GitHub product,2.0
+GitLAb,1.0
+Glyph & Cog,3.0
+Google Devices,2.0
+Google LLC,1.0
+GovTech CSG,1.0
+Grafana Labs,2.0
+Green Rocket,3.0
+HCL,2.0
+HP,0.0
+HPE,0.0
+HYPR,3.0
+Halborn,1.0
+Hallo Welt!,4.0
+Hanwha Vision,1.0
+HashiCorp,2.0
+HeroDevs,3.0
+HiddenLayer,0.5
+Hikvision,1.0
+Hillstone,0.0
+Hitachi,2.0
+Hitachi Energy,1.0
+Hitachi Vantara,1.0
+Honeywell,2.0
+Honor Device,3.0
+Huawei,2.0
+Huntress Labs,2.0
+IBM,1.0
+ICS-CERT,1.0
+IDEMIA,1.0
+INCD,1.0
+INCIBE,1.0
+ISC,0.0
+Illumio,1.0
+Intel,2.0
+Ivanti,0.0
+JFrog,1.0
+JPCERT/CC,0.5
+JetBrains,1.0
+Johnson Controls,2.0
+Juniper,0.0
+KNIME,0.0
+Kaspersky,1.0
+KrCERT/CC,1.0
+Kubernetes,1.0
+LG Electronics,2.0
+LY Corporation,3.0
+Lenovo,0.0
+Liferay,1.0
+Logitech,2.0
+M-Files,1.0
+MIM Software,3.0
+MITRE,1.0
+Mattermost,1.0
+Mautic,2.0
+Medtronic,1.0
+Mend.io,0.0
+Meta Platforms,0.0
+Microsoft,0.0
+Mirantis,1.0
+Mitsubishi Electric,1.0
+MongoDB,1.0
+Moxa,1.0
+Mozilla,2.5
+N-able,1.0
+NBU,3.0
+NCSC,1.0
+NCSC-NL,1.0
+NLnet Labs,0.0
+NVIDIA,1.0
+National Instruments,0.0
+NetApp,1.0
+Netskope,1.0
+Network Optix,2.0
+NortonLifeLock,2.0
+Nozomi,1.0
+ONEKEY,0.0
+OPPO Mobile,5.0
+OTRS,1.0
+Octopus,3.0
+Odoo,0.0
+Okta,1.5
+Open Design Alliance,0.0
+Open-Xchange,0.0
+OpenAnolis,3.0
+OpenBMC,1.0
+OpenCloud OS,0.0
+OpenHarmony,2.0
+OpenNMS,4.0
+OpenText,3.0
+Oracle,0.0
+PHP,1.0
+Palantir,1.0
+Palo Alto,0.0
+Panasonic,0.5
+Pandora FMS,4.0
+PaperCut,0.0
+Patchstack,1.0
+Payara,0.0
+Pegasystems,2.0
+Pentraze,1.0
+Phoenix,1.0
+Ping Identity,2.0
+PostgreSQL,1.0
+Profelis,6.0
+Progress,1.0
+Proofpoint,0.0
+Puiterwijk,2.0
+Puppet,3.0
+Pure Storage,1.0
+Python,1.5
+QNAP,2.0
+Qualcomm,1.0
+Qualys,2.0
+Rapid7,2.0
+Red Hat,0.0
+Robert Bosch,1.0
+Rockwell Automation,1.0
+SAP,0.0
+SBA Research,2.5
+SEC-VLab,1.0
+SICK AG,0.0
+STAR Labs SG,0.0
+SUSE,1.0
+SailPoint,2.0
+Samsung Mobile,2.0
+Samsung TV & Appliance,3.0
+Schneider Electric,0.0
+Schweitzer,3.0
+Secomea,1.0
+Securifera,0.0
+ServiceNow,1.5
+Siemens,0.0
+Sierra Wireless,1.5
+Silicon Labs,1.0
+Silver Peak,2.0
+Snow Software,1.0
+Snyk,1.0
+SoftIron,2.0
+SolarWinds,1.0
+SonicWall,1.0
+Sophos,0.0
+Splunk,1.0
+Symantec,2.0
+Synaptics,1.0
+Synology,1.0
+TIBCO,1.0
+TML,1.0
+TR-CERT,0.0
+TWCERT/CC,0.0
+Tcpdump,0.0
+TeamViewer,2.0
+Temporal,1.0
+Tenable,1.0
+Thales Group,1.5
+TianoCore.org,1.0
+Tigera,2.0
+Trellix,1.0
+Trend Micro,0.5
+Unisoc,1.5
+VMware,1.0
+VULSec Labs,0.0
+Vaadin,1.0
+Vivo Mobile,2.0
+VulDB,3.0
+VulnCheck,0.0
+WSO2,0.5
+WatchGuard,0.0
+Western Digital,2.0
+Wordfence,1.0
+Xerox,3.5
+Xiaomi,1.5
+Yugabyte,2.0
+ZTE,2.0
+ZUSO,1.5
+Zabbix,2.0
+Zephyr Project,2.0
+Zohocorp,1.0
+Zoom,2.0
+Zowe,2.5
+Zscaler,2.5
+Zyxel,0.0
+cirosec,2.0
+dotCMS LLC,2.0
+openEuler,2.0
+wolfSSL,2.0
