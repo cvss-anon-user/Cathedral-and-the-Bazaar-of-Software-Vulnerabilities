@@ -1,6 +1,6 @@
 # Odds Ratio and Group Label. Note: This artifact does not include data from Company X
 # The file "vulCheck_v31_Cleaned_withShortName.csv" used in this script
-# removed CVE descriptions contain "UNSUPPORTED WHEN ASSIGNED" from the original full dataset
+# removed CVE descriptions that contain "UNSUPPORTED WHEN ASSIGNED" from the original full dataset
 # and manually annotate short names for each CNA.
 
 import pandas as pd
