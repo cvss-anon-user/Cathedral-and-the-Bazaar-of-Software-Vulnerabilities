@@ -1,5 +1,7 @@
 # Cathedral-and-the-Bazaar-of-Software-Vulnerabilities
 
+This repository provides the datasets used in our paper for analyzing entry-level and group-level inconsistencies between CNAs and the NVD.
+
 **Note**: The private CNA dataset (referred to as *Company X*) used in our experiments and analysis is not included in this repository. The scripts provided below operate only on public CNA data obtained from VulnCheck.
 
 However, due to VulnCheck's licensing restrictions, we cannot redistribute the original data collected from their platform.  
