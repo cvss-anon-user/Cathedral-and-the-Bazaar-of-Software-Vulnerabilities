@@ -1,6 +1,12 @@
-# Data Clean
+# Data Clean. 
 import pandas as pd
 import re
+
+# Note: Due to VulnCheck's licensing restrictions, we cannot redistribute the original 'vulCheck_v31.csv' file.
+# Please replace this path with your own preprocessed dataset if needed.
+# However, you may directly use the file 'vulCheck_v31_Cleaned_withShortName.csv',
+# which is a cleaned version derived from the original data using our preprocessing script,
+# and has been manually annotated with CNA organizational types.
 
 file_path = "./vulCheck_v31.csv"
 df = pd.read_csv(file_path)
