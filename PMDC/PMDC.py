@@ -1,7 +1,8 @@
-# PMDC. Note: This artifact does not include data from Company X
+# PMDC. Note: This artifact does not include data from Company X.
 # The file "vulCheck_v31_Cleaned_withShortName.csv" used in this script
-# is based on "vulCheck_v31_Cleaned.csv" generated from the "../Original Dataset/vulCheck_DataPreprocessing(5).py",
-# with manually annotate short names for each CNA.
+# removed CVE descriptions that contain "UNSUPPORTED WHEN ASSIGNED" from the original full dataset,
+# and we manually annotate short names for each CNA.
+
 
 import pandas as pd
 import numpy as np
