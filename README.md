@@ -20,7 +20,7 @@ Instead, we provide `vulCheck_v31_Cleaned_withShortName.csv`, a cleaned and tran
 
 ### 📂 Original Dataset
 
-As the files `vulCheck_v31_Cleaned_withShortName.csv` size is large, we have uploaded it as a zip archive.  
+As the file `vulCheck_v31_Cleaned_withShortName.csv` size is large, we have uploaded it as a zip archive.  
 Please follow the instructions below to properly extract and use the full dataset and code:
 
 1. **Download** zipped CSV file `vulCheck_v31_Cleaned_withShortName.csv.zip` 
